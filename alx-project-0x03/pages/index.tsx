@@ -1,3 +1,4 @@
+import { PageRouteProps } from "@/interface";
 const Home = () => {
   return (
     <div>
