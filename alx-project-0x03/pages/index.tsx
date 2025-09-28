@@ -7,7 +7,7 @@ const Home = () => {
 }
 
 export default Home;
-// pages/index.tsx
+"const router = useRouter();
 import Button from "@/components/common/Button";
 import { useRouter } from "next/router";
 
