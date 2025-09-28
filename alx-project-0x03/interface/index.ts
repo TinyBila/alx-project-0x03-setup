@@ -1,4 +1,4 @@
-interface/index.tsx -
+interface/index.tsx;
 export interface PageRouteProps {
   pageRoute: string;
 }
