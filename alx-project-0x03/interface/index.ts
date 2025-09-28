@@ -1,5 +1,4 @@
-// interface/index.ts
-
+interface/index.tsx -
 // From pages/index.tsx
 export interface PageRouteProps {
   pageRoute: string;
